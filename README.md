@@ -11,7 +11,7 @@ const DiegoCerdaC = {
   Skills: {
     BackEnd: {
       Typescript: ['NodeJs', 'Express', 'Nest JS'],
-      Python: ['Flask', 'Django', 'Autogen'],
+      Python: ['Flask', 'Django'],
       Java: ['Springboot']
     },
     FrontEnd: {
@@ -22,6 +22,7 @@ const DiegoCerdaC = {
       Relational: ['Postgres', 'MySQL'],
       NoRelational: ['MongoDB', 'Firebase']
     },
+    AI: ['Autogen'],
     DataHandling: ['Numpy', 'Pandas', 'Matplotlib'],
     CloudServer: ['Google Cloud Platform']
   }
