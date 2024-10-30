@@ -24,7 +24,7 @@ const DiegoCerdaC = {
     },
     AI: ['Autogen'],
     DataHandling: ['Numpy', 'Pandas', 'Matplotlib'],
-    CloudServer: ['Google Cloud Platform']
+    CloudServer: ['Google Cloud Platform', 'AWS']
   }
 }
 ```
