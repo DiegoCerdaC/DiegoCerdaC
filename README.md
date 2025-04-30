@@ -8,23 +8,23 @@ I really like everything that is Front-end as well as Back-end.<br>
 ## Languages and tools
 ```js
 const DiegoCerdaC = {
-  Skills: {
-    BackEnd: {
-      Typescript: ['NodeJs', 'Express', 'Nest JS'],
-      Python: ['Flask', 'Django'],
-      Java: ['Springboot']
+  skills: {
+    backend: {
+      typescript: ['NodeJs', 'Express', 'Nest JS'],
+      python: ['Flask', 'Django'],
+      java: ['Springboot']
     },
-    FrontEnd: {
-      Typescript: ['React', 'React Native', 'Next JS', 'Vue', 'Redux']
+    frontend: {
+      typescript: ['React', 'React Native', 'Next JS', 'Vue', 'Redux']
     },
-    Blockchain: ['Solidity', 'Ethers', 'Web3'],
-    Database: {
-      Relational: ['Postgres', 'MySQL'],
-      NoRelational: ['MongoDB', 'Firebase']
+    blockchain: ['Solidity', 'Ethers', 'Web3'],
+    database: {
+      relational: ['Postgres', 'MySQL'],
+      noRelational: ['MongoDB', 'Firebase']
     },
-    AI: ['Autogen'],
-    DataHandling: ['Numpy', 'Pandas', 'Matplotlib'],
-    CloudServer: ['GCP', 'AWS']
+    ai: ['Autogen'],
+    dataHandling: ['Numpy', 'Pandas', 'Matplotlib'],
+    cloudServer: ['GCP', 'AWS']
   }
 }
 ```
